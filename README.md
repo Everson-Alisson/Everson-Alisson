@@ -1,28 +1,35 @@
-
-## Olá, eu sou o Éverson Alisson
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/everson.alisson_?igshid%253DNTc4MTIwNjQ2YQ%253D%253D)
-
-![Éverson GitHub stats](https://github-readme-stats.vercel.app/api?username=Everson-Alisson&show_icons=true&theme=tokyonight)
-
-## Linguagens que estou estudando e uso no meu dia
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div/br>
-
-## Linguagens que ainda pretendo estudar (prioridades)
-
-<div style="display: inline_block"><br/>
+@@ -1,48 +1,47 @@
+# <p align="center">👋Hello, my name is Éverson Alisson and I am a Back-end Developer!</p>&nbsp;
+<div align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=synthwave&mode=weekly" />
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEdu-AR&layout=compact&langs_count=7&theme=synthwave"/>
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+## My Skills
+#### Languages:
+![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
+![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+#### In progress:
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div/br>
+#### Tools:
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+&nbsp;
+&nbsp;
+## Contacts:
 
-## Academico em Tecnologia da Informação na UFERSA 
-### Gosto muito de programar em Back-End mas estou aberto para aprender linguagens de programação diferentes, até mesmo as mais usadas em Front-End.
+<div> 
+<a href="https://www.instagram.com/luizeduardoar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.instagram.com/eversonalissonq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:luizedu.btiufersa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-## Ambiente de Desenvolvimento
- 
-![Vs.Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+</div>&nbsp;&nbsp;
+## About me
+- 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
+- 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
