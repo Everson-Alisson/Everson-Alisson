@@ -1,7 +1,7 @@
 # <p align="center">👋Hello, my name is Éverson Alisson and I am a Back-end Developer!</p>&nbsp;
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=synthwave&mode=weekly" />
-<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEdu-AR&layout=compact&langs_count=7&theme=synthwave"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everson-Alisson&theme=synthwave&mode=weekly" />
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson-Alisson&layout=compact&langs_count=7&theme=synthwave"/>
  </div>
  
  &nbsp;
@@ -33,7 +33,7 @@
 <div> 
 </a>
 <a href="https://www.instagram.com/eversonalissonq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:luizedu.btiufersa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:eversonalisson365@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>&nbsp;&nbsp;
 
