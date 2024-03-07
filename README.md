@@ -1,4 +1,7 @@
-<h1 align="center" style="color: #00AEFF;">👋Hello, my name is Éverson Alisson and I am a Back-end Developer!</h1>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0e00d5&reversal=false&section=header&descAlign=50"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Éverson+Alisson;How+are+you?;I+am+a+Back-End+Developer!+:%29)](https://git.io/typing-svg)
+
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everson-Alisson&theme=algolia&mode=weekly" />
 <img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson-Alisson&layout=compact&langs_count=7&theme=algolia"/>
